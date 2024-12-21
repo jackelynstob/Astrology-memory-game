@@ -1,0 +1,51 @@
+[
+    {
+        "image": "../assets/capricorn.png",
+        "name": "cap"
+    },
+    {
+        "image": "../assets/aquarius.png",
+        "name": "aquarius"
+    },
+    {
+        "image": "../assets/pisces.png",
+        "name": "pisces"
+    },
+    {
+        "image": "../assets/aries.png",
+        "name": "aries"
+    },
+    {
+        "image": "../assets/taurus.png",
+        "name": "taurus"
+    },
+    {
+        "image": "../assets/gemini.png",
+        "name": "gemini"
+    },
+    {
+        "image": "../assets/cancer.png",
+        "name": "cancer"
+    },
+    {
+        "image": "../assets/leo.png",
+        "name": "leo"
+    },
+    {
+        "image": "../assets/virgo.png",
+        "name": "virgo"
+    },
+    {
+        "image": "../assets/libra.png",
+        "name": "libra"
+    },
+    {
+        "image": "../assets/scorpio.png",
+        "name": "scorpio"
+    },
+    {
+        "image": "../assets/sagittarius.png",
+        "name": "sag"
+    }
+    
+]
